@@ -1,9 +1,3 @@
-/* Author: Gloria Ngan
- * Card.java
- *
- * <code>Card</code> represents a playing card.
- */
-
 public class Card {
   
   private String suit;     //String value that holds the suit of the card

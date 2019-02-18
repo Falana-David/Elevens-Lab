@@ -1,8 +1,3 @@
-/* Author: Gloria Ngan
- *
- * This class contains methods to shuffle a 
- * deck of cards.
- */
 public class Shuffler {
 
  private static final int shuffleCount = 1;    //The number of shuffles to be implemented.
