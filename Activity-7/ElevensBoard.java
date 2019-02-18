@@ -2,9 +2,9 @@ import java.util.List;
 import java.util.ArrayList;
 //NO METHOD TO REMOVE CARDS FROM BOARD.
 
-/**
- * The ElevensBoard class represents the board in a game of Elevens.
- */
+
+// * The ElevensBoard class represents the board in a game of Elevens.
+
 public class ElevensBoard {
 
  private static final int BOARD_SIZE = 9;     //The size (number of cards) on the board.

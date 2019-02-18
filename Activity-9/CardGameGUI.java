@@ -17,9 +17,9 @@ import java.net.URL;
 import java.util.List;
 import java.util.ArrayList;
 
-/**
- * This class provides a GUI for solitaire games related to Elevens.
- */
+
+ //* This class provides a GUI for solitaire games related to Elevens.
+
 public class CardGameGUI extends JFrame implements ActionListener {
 
  /** Height of the game frame. */

@@ -2,11 +2,11 @@ import java.util.List;
 import java.util.ArrayList;
 import java.lang.Math;
 
-/**
- * The Deck class represents a shuffled deck of cards.
- * It provides several operations including initialize, 
- * shuffle, deal, and check if empty.
- */
+
+// * The Deck class represents a shuffled deck of cards.
+// * It provides several operations including initialize, 
+// * shuffle, deal, and check if empty.
+
 
 public class Deck {
   private List<Card> cards;    //cards contains all the cards in the deck.
