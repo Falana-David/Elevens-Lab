@@ -3,6 +3,7 @@ public class Card {
   private String suit;     //String value that holds the suit of the card
   private String rank;     //String value that holds the rank of the card
   private int pointValue;  //int value that holds the point value
+  int k = 0;
   
   //Constructor.
   public Card(String cardRank, String cardSuit, int cardPointValue) {
